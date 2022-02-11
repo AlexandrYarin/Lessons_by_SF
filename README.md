@@ -1,2 +1,2 @@
 # Lessons_by_SF
-homework fro skill facory
+homework  for skill facory
